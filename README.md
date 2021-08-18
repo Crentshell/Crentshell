@@ -1,16 +1,20 @@
-Software Engineer 
-I'm Crentshell, usually called Crent or Hal by friends.
+**Software Engineer**
 
 I’m interested in learning:
-Decentralized libre software
-Specific technologies include React, Vue, C, C++, Tensorflow and game development.
+* React
+* Vue
+* C
+* C++
+* Tensorflow
+* Kernel development/maintenance 
 
 I’m currently learning:
-Front-End Development
-React.js
-C/C++ Development
+* Front-End Development
+* React.js
+* C/C++ Development
 
 I’m looking to collaborate on:
+
 Open source projects I enjoy using or believe are needed/useful.
 
 <!---
