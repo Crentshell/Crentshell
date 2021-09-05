@@ -1,17 +1,12 @@
-**Software Engineer**
+##**Software Engineer**
 
 I’m interested in learning:
 * React
-* Vue
-* C
-* C++
-* Tensorflow
-* Kernel development/maintenance 
+* API, Rest/Async
 
 I’m currently learning:
-* Front-End Development
+* Front-End UI design
 * React.js
-* C/C++ Development
 
 I’m looking to collaborate on:
 
